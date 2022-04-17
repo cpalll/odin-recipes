@@ -1,0 +1,51 @@
+body {
+  background-color: rgb(223, 249, 255);
+}
+
+h1 {
+  color: black;
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 40px;
+  background-color: pink;
+}
+
+h2 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 30px;
+  background-color: rgb(255, 216, 149);
+}
+
+p {
+  font-size: 24px;
+  font-family: Helvetica, Aria, sans-serif;
+}
+
+a {
+  color: rgb(0, 210, 25);
+}
+
+img { 
+  height: 500px;
+  width: auto;
+}
+
+.recipe-list {
+  color: blue;
+  font-family: cursive;
+  font-size: 26px;
+}
+
+.ingredients {
+  font-size: 22px;
+  font-family: Trebuchet, Arial, Helvetica, sans-serif;
+}
+
+.directions {
+  font-family: Tahoma, Aria, sans-serif;
+  font-size: 20px;
+}
+
+.joke  {
+  background-color: rgb(130, 255, 203);
+}
